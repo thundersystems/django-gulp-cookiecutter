@@ -1,0 +1,69 @@
+*.log
+*.pot
+*.py[codt]
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# Sphinx
+docs/_build
+
+.webassets-cache
+
+# Virtualenvs
+env
+env*
+venv
+.env
+
+# intellij
+*.ipr
+*.iml
+*.iws
+.idea/
+
+# sqlite3
+*.sqlite3
+
+# collect static output directory
+/static/
+
+.DS_Store
+
+# node
+node_modules/
+
+# bower packages
+bower_components/
+.sass-cache/

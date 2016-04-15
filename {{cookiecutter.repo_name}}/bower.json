@@ -1,0 +1,19 @@
+{
+  "name": "{{cookiecutter.repo_name}}",
+  "version": "0.0.1",
+  "authors": [
+    "{{cookiecutter.author_name}} <{{cookiecutter.email}}>"
+  ],
+  "description": "{{cookiecutter.description}}",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
